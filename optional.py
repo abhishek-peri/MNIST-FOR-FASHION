@@ -3,10 +3,7 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 
-############################
-#Programming Assignment 1
-# Asit Tarsode; ME15B087
-###########################
+
 # Notes:
 # Throughout the code, the vectors are horizontal by default
 ###############################################  Parameters  ###############################################
